@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "com.fredoseep.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ExampleMixin",
+    "MixinAtumConfig"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "MixinDrawableHelper"
+  ]
+}

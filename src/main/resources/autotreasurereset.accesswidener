@@ -1,0 +1,3 @@
+accessWidener v1 named
+
+accessible method net/minecraft/world/gen/feature/StructureFeature shouldStartAt (Lnet/minecraft/world/gen/chunk/ChunkGenerator;Lnet/minecraft/world/biome/source/BiomeSource;JLnet/minecraft/world/gen/ChunkRandom;IILnet/minecraft/world/biome/Biome;Lnet/minecraft/util/math/ChunkPos;Lnet/minecraft/world/gen/feature/FeatureConfig;)Z
