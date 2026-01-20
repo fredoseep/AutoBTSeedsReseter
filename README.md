@@ -4,4 +4,4 @@ This mod is based on Atum. You must install Atum.
 
 Seeds are filtered from random seeds not from any banks. Only filtered for a 5-chunk away bt spawn, others remain random.
 
-  WARNING:NOT VERIFIABLE IN ANY CATIGORIY at speedrun.com
+  WARNING:NOT VERIFIABLE IN ANY CATIGORY at speedrun.com
